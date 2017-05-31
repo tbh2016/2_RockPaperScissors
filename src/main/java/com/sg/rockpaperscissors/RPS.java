@@ -12,7 +12,7 @@ import java.util.Scanner;       //class instance for scanning numbers from user 
  *
  * @author Thuan Huynh
  */
-public class RockPaperScissors {        //name of the file class and can be called from anywhere
+public class RPS {        //name of the file class and can be called from anywhere
 
     public static void main(String[] args) {//public mean it can be accessed from anywhere, static means no need to create an object when invoking the main method, 
         //void will not return any value, main is the name of the class, String[]args is a command line arguments  
